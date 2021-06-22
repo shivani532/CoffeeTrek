@@ -1,4 +1,4 @@
-# coffee_app
+# coffeetrek
 
 A new Flutter project.
 
